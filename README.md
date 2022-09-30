@@ -1,6 +1,6 @@
 # Welcome to my Version Control Repo!
 
-Here is what I did for this assignment:
+Here is what I did for this small project:
 
 1. Clone the VC repo [https://github.com/DataGlacier/VC.git](https://github.com/DataGlacier/VC.git)
 2. Create new branch in local repository
