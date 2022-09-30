@@ -1,4 +1,4 @@
-# Welcome to my Version Control Repo!
+# Welcome to my Version Control Practice Repo!
 
 Here is what I did for this small project:
 
