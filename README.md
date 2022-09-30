@@ -1,4 +1,4 @@
-# Welcome to my Data Glacier Version Control Assignment Repo!
+# Welcome to my Version Control Repo!
 
 Here is what I did for this assignment:
 
