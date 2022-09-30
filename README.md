@@ -7,7 +7,7 @@ Here is what I did for this assignment:
 3. Checkout newly created branch
 4. Run add.py script and add name and favorite sport as input
 5. Run test script using pytest test/test.py -s command
-6. Add, commit, merge and push changes to this repo
+6. Add, commit, merge and push changes to this remote repo
 
 
 
