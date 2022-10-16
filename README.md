@@ -2,7 +2,7 @@
 
 Here is what I did for this small project:
 
-1. Clone the VC repo [https://github.com/DataGlacier/VC.git](https://github.com/DataGlacier/VC.git) (git clone https://github.com/DataGlacier/VC.git)
+1. Clone the VC repo https://github.com/DataGlacier/VC.git (git clone https://github.com/DataGlacier/VC.git)
 2. Create new branch in local repository (git branch new_branch)
 3. Checkout newly created branch (git checkout new_branch)
 4. Run add.py script and add name and favorite sport as input (python add.py)
